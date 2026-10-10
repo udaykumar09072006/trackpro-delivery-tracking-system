@@ -1,0 +1,6 @@
+{
+  "name": "TrackPro - Delivery Tracking System",
+  "description": "Comprehensive real-time package delivery tracking and logistics management platform featuring interactive route visualization, courier operations, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
